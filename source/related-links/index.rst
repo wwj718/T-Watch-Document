@@ -7,8 +7,6 @@
 
 - `LilyGo Github <https://github.com/LilyGO>`_ ：https://github.com/LilyGO
 
-- `LilyGo Github <https://github.com/LilyGO>`_ ：https://github.com/LilyGO
-
 
 **参考资源：**
 
